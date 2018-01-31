@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<commandlist appversion="1.0">
+	<Test name="Test">
+		<desc>A simple test command to prove xml works</desc>
+		<data>Insert command here</data>
+	</Test>
+	<TestTwo name="Test Two">
+		<desc>A simple test command to prove xml works</desc>
+		<data>Insert command here</data>
+	</TestTwo>
+</commandlist>
